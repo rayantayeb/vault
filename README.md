@@ -4,6 +4,8 @@ Vault is my home NAS project built from an old Dell OptiPlex 7010 that I no long
 
 Instead of buying a dedicated NAS, I decided to reuse the hardware I already had and turn it into a small home server.
 
+![Vault overview](assets/vault-overview.svg)
+
 ## What I built
 
 - OpenMediaVault as the NAS operating system
